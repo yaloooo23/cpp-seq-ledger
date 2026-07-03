@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.10)
 project(seq_ledger
     VERSION 1.0.0
     DESCRIPTION "A lightweight C++17 request ledger for tracking async request/response lifecycles by seqId"
-    HOMEPAGE_URL "https://github.com/Yalooo23/cpp-seq-ledger"
+    HOMEPAGE_URL "https://github.com/yaloooo23/cpp-seq-ledger"
     LANGUAGES CXX
 )
 

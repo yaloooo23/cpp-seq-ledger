@@ -48,7 +48,7 @@ See `examples/basic_usage.cpp` for a runnable demo.
 
 ```bash
 # Clone
-git clone https://github.com/Yalooo23/cpp-seq-ledger.git
+git clone https://github.com/yaloooo23/cpp-seq-ledger.git
 cd cpp-seq-ledger
 
 # Configure and build
