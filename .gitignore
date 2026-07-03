@@ -1,0 +1,34 @@
+# Build directories
+build/
+build-*/
+cmake-build-*/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.user
+*.swp
+*.swo
+*~
+
+# Compiled output
+*.o
+*.obj
+*.so
+*.so.*
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+
+# CMake generated
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# macOS
+.DS_Store
